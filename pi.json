@@ -1,5 +1,6 @@
 {
     "shuffle": false,
     "fullscreen": true,
-    "performance": true
+    "performance": true,
+    "loop": false
 }
